@@ -14,4 +14,3 @@ Class Life(code.Cog):
     self.you = tester
   
 ```
-OTg2ODM1MzU4NDU5MjQwNDU4.GczklK.gH19vnAFXaV5Judn0J2jF_ZsbS24DFHBmA-
